@@ -45,4 +45,4 @@ For questions or feedback, contact [your-email@example.com](mailto:muralimano128
 
 ---
 
-This version is more straightforward and focuses on the essential details.
+
