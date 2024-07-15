@@ -4,7 +4,7 @@
 This project aims to predict hotel booking cancellations using machine learning. Accurate predictions help hotels manage resources and improve revenue management.
 
 ## Features
-- Data preprocessing
+- Data preprocessing 
 - Model training and evaluation
 - Prediction of booking cancellations
 
