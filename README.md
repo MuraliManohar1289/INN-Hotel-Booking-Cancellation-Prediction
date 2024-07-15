@@ -1,7 +1,3 @@
-Sure, here's a simplified version of the README:
-
----
-
 # INN Hotel Booking Cancellation Prediction
 
 ## Introduction
@@ -40,9 +36,7 @@ The model's performance is evaluated using metrics like accuracy and precision.
 This project is licensed under the MIT License.
 
 ## Contact
-For questions or feedback, contact [your-email@example.com](mailto:muralimano1289@gmail.com).
-
+For questions or feedback, contact [your-email@example.com](mailto:your-muralimano1289@gmail.com).
 
 ---
-
 
